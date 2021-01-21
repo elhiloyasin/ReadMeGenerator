@@ -11,9 +11,9 @@
 ## Image of Application
 ![Image](Images/questionImage.png)
 
-## Video Walkthrough of Application
+## Video of Application
 
->This video walkthrough shows a detailed way on how to use the application in __Node.js__
+>This is a link to the video walkthrough that shows a detailed way on how to use the application in __Node.js__
 
 [README Generator Video](https://www.youtube.com/watch?v=xf9SbybwJA4
 "Click Me :)")
