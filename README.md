@@ -9,7 +9,7 @@
 >__JavaScript__
 
 ## Image of Application
->![Image](Images/questionImage.png)
+>![Image](images/questionImage.png)
 
 ## Video Walkthrough of Application
 
