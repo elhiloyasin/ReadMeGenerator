@@ -1,6 +1,5 @@
 # ReadMeGenerator
 
----
 title: Application Details 
 ---
 
