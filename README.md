@@ -9,8 +9,7 @@
 >__JavaScript__
 
 ## Image of Application
->![Image](Images/questionImage.png)
-
+![Image](Images/questionImage.png)
 
 ## Video Walkthrough of Application
 
@@ -24,7 +23,6 @@
 _If you have any questions regarding this application, please feel free to contact me!_
 
 >##### Email: yaze@iamyaze.com
-
 
 
 
