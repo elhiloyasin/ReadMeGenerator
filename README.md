@@ -10,7 +10,7 @@ logic based on the users input. I was intrigued by what this package provides. I
 >__JavaScript__
 
 ## Image of Application
-[Questioning the User](www.google.com)
+[Image](www.google.com)
 
 
 
